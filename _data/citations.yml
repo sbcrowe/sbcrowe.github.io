@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   9m-cejoAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -218,7 +218,7 @@ papers:
     title: Testing the limits of stereotactic radiosurgery for multiple brain metastases
     year: '2016'
   9m-cejoAAAAJ:KlAtU1dfN6UC:
-    citations: 114
+    citations: 115
     title: Treatment plan complexity metrics for predicting IMRT pre-treatment quality assurance results
     year: '2014'
   9m-cejoAAAAJ:KxtntwgDAa4C:
@@ -230,7 +230,7 @@ papers:
     title: A virtual radiation therapy workflow simulation
     year: '2014'
   9m-cejoAAAAJ:L8Ckcad2t8MC:
-    citations: 92
+    citations: 93
     title: "Dosimetry of cone\u2010defined stereotactic radiosurgery fields with a commercial synthetic diamond detector"
     year: '2014'
   9m-cejoAAAAJ:LI9QrySNdTsC:
@@ -246,7 +246,7 @@ papers:
     title: Small field dose correction factors for radiochromic film in lung phantoms
     year: '2021'
   9m-cejoAAAAJ:LkGwnXOMwfcC:
-    citations: 87
+    citations: 88
     title: Monte Carlo-based diode design for correction-less small field dosimetry
     year: '2013'
   9m-cejoAAAAJ:M3ejUd6NZC8C:
@@ -442,7 +442,7 @@ papers:
     title: 'Towards an accurate calculation of foetal dose from external beam radiotherapy: Anatomical modelling of the pregnant patient'
     year: '2014'
   9m-cejoAAAAJ:ZHo1McVdvXMC:
-    citations: 139
+    citations: 140
     title: Radiological properties of 3D printed materials in kilovoltage and megavoltage photon beams
     year: '2017'
   9m-cejoAAAAJ:ZeXyd9-uunAC:
@@ -482,7 +482,7 @@ papers:
     title: Utilising the virtual environment for radiotherapy training system to support undergraduate teaching of IMRT, VMAT, DCAT treatment planning, and QA concepts
     year: '2018'
   9m-cejoAAAAJ:abG-DnoFyZgC:
-    citations: 8
+    citations: 9
     title: Long-term reliability of optically stimulated luminescence dosimeters
     year: '2018'
   9m-cejoAAAAJ:aqlVkmm33-oC:
@@ -534,7 +534,7 @@ papers:
     title: 'Photon optimizer (PO) vs progressive resolution optimizer (PRO): a conformality-and complexity-based comparison for intensity-modulated arc therapy plans'
     year: '2018'
   9m-cejoAAAAJ:e5wmG9Sq2KIC:
-    citations: 23
+    citations: 24
     title: Clinical use of diodes and micro-chambers to obtain accurate small field output factor measurements
     year: '2015'
   9m-cejoAAAAJ:eJXPG6dFmWUC:
@@ -750,7 +750,7 @@ papers:
     title: Dosimeter selection for small field percentage depth dose and tissue-maximum ratio measurements
     year: '2019'
   9m-cejoAAAAJ:tYavs44e6CUC:
-    citations: 1
+    citations: 2
     title: "A prospective hazard analysis of real\u2010time adaptive helical tomotherapy"
     year: '2026'
   9m-cejoAAAAJ:tuHXwOkdijsC:
@@ -778,7 +778,7 @@ papers:
     title: Treatment verification
     year: '2023'
   9m-cejoAAAAJ:uWQEDVKXjbEC:
-    citations: 23
+    citations: 24
     title: Xylenol orange functionalised polymers to overcome diffusion in Fricke gel radiation dosimeters
     year: '2018'
   9m-cejoAAAAJ:uWiczbcajpAC:
